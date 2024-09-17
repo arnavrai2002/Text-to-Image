@@ -2,13 +2,6 @@
 
 This is an application where users can provide text as input and receive generated images based on the given prompt.
 
-## Available Models
-
-1. **Hugging Face Diffusors - RunwayML Stable Diffusion**
-   - Model Link: [Hugging Face Diffusors - RunwayML Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
-
-2. **DALLE**
-
 ## Streamlit UI Screenshots
 
 Below are the screenshots of the Streamlit app:
@@ -23,7 +16,7 @@ Below are the screenshots of the Streamlit app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/k-Rohit/GenAI-Projects.git
+   git clone https://github.com/arnavrai2002/Text-to-Image
    cd Text-to-Image
    cd Image-gen-from-text
 2. ```bash
